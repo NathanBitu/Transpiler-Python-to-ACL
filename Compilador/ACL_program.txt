@@ -1,0 +1,8 @@
+DEFINE Ax=35
+DEFINE Ay=35
+DEFINE Az=35
+
+DEFINE A=(aaa,35,35)
+
+A;
+MOVE A
