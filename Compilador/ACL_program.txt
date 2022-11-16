@@ -6,3 +6,5 @@ DEFINE A=(aaa,35,35)
 
 
 MOVE A
+
+.
