@@ -1,0 +1,21 @@
+DELAY(500)
+#DELAY(tempoespera)
+
+tempo_espera = 45
+valor_imprimir = "Ola_Mundo"
+
+PRINT(valor_imprimir)
+
+OPEN()
+MOVE(A34)
+CLOSE()
+MOVE(A22)
+MOVE(A45)
+DELAY(tempo_espera)
+PRINT("Quase_la")
+OPEN()
+DELAY(tempo_espera)
+
+PRINT("Voce_conseguiu")
+
+#tempo_espera = "Bug TIPO"
