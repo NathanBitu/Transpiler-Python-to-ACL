@@ -1,0 +1,14 @@
+Nathan Bitu de Oliveira RA: 081200004
+Lucas Leite 		RA: 081200010
+Pedro Souza 		RA: 081200017
+Leonardo Bonato 		RA: 081200014
+Ariel Pereira		RA: 081200033
+
+REGEX:
+int = ^[0-9]+$
+float = ^[0-9]+.[0-9]+$
+string = ^"[a-zA-Z0-9 _]*"$
+functions = ^[A-Z]+("{0,1}[A-Za-z0-9_]*"{0,1})$
+position_int = ^[0-9]{0,5}$
+position_string = ^[0-9a-zA-Z]{0,5}$
+delimiter = '\n'
